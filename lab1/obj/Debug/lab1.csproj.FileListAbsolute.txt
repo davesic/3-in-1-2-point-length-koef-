@@ -1,0 +1,15 @@
+C:\Users\webda\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\webda\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\webda\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.zavd1.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.zavd2.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.zavd3.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.Input.resources
+C:\Users\webda\source\repos\lab1\lab1\obj\Debug\lab1.Show.resources
